@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/*.db
+coletas/
+imagens_upload/
+
+dist/
+build/
+*.spec
+
+.env
+secrets.toml
+.streamlit/secrets.toml
